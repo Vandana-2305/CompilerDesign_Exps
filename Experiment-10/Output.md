@@ -1,4 +1,4 @@
-## SAMPLE INPUT:
+## SAMPLE INPUT & OUTPUT:
 
 ```text
 t1 = a + b;
